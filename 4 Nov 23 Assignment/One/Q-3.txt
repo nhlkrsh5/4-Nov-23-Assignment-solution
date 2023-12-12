@@ -1,0 +1,21 @@
+3.Different between unary,binary and ternary operator in javascript.Give exaple of each
+ANS:
+
+1.Unary Operator:
+	which contain one operator and and operand that's called Unary Operator
+	Example:
+		a++
+		b--
+
+2.Binary Operator:
+	Which contain two operand and one operator called Binary opeartor.
+	Example:
+		a+b
+		a-b
+
+3.Ternary Operator:
+	The “Question mark” or “conditional” operator in JavaScript is a ternary operator that has three 	operands. It is the simplified operator of if/else.
+	Example:
+		Input: let result = (10 > 0) ? true : false;
+                                      Output: true
+	

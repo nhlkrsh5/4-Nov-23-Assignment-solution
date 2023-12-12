@@ -1,0 +1,3 @@
+4.Discuss the precedence and associativity of operator in javascript.why is understanding these concept important?
+ANS:
+Understanding operator precedence and associativity rules is essential for writing correct and efficient code in JavaScript. These rules determine the order in which operators are evaluated in expressions, and they can greatly impact the result of complex expressions.

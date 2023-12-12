@@ -1,0 +1,5 @@
+1.Explain what javascript is and its role web development?
+ANS:
+	Javascript is a programming language.It is use to build and apply the  logic into web page.Javascript is like engeen of erb page.It is use fronted and backed both side.
+Role:
+	The role of javascript is apply the logic into web page.role of javascript is design web page and many things

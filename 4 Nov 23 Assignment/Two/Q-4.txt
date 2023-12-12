@@ -1,0 +1,9 @@
+4.What is purpose of declairing variables in javascript,and how do you declare them using the 'let' key word
+ANS:
+	let keyword is also used for variable declaration. But the only difference is the variable declared with the “let” keyword is block-scoped and local variable. A variable declared with let will be out of scope outside the block within which it has been declared.
+
+Syntex:
+	let  variables_name;
+
+Example:	
+	let  username

@@ -1,0 +1,9 @@
+1.Explain the role of operator in javascript.why they assential in programming?
+ANS:
+The operator is use to perform arithmetic,comperition and etc operation in javascript.
+Beacause of operator you can perform all type of operation in javascript.
+throught opeartor you can add the value,comparisan the value and more.
+Assential: the use of operator is perform operation. you must include operator in javascript 
+without any operator you can't apply the logic
+
+

@@ -1,0 +1,10 @@
+3.List and describe the five primitive datatype in javascript
+ANS:
+	List is give belove of primitive datatype:
+	1.Strign 
+	2.Number
+	3.Boolean
+	4.BigInt
+	5.NULL
+	6.Undefind
+	

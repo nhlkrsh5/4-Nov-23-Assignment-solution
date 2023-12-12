@@ -1,0 +1,11 @@
+5.Explain the importance of comment in javascript and provide example of single-line and multi-line comments
+ANS:
+	Comment is very useful in javascript and all programing language.Through comment you can specifed thing like this is main part and many things.Comment is a note part of  code.Javascript can't include code as  a logic.They use to remenber things and make your code meaningful
+
+Exammple:
+	1.Single-line comment:
+	you can apply the single line comment you can use "ctrl+/" or "/*  */"
+
+	2.multi-line comment:
+	you can apply the multi-line comment.Just select the line and, 
+	 use "ctrl+/" short cut key or  "/*" at starting and  "*/" at the end

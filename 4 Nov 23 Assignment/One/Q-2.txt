@@ -1,0 +1,18 @@
+2.Describe the categogorization of operator in javascript in their functionally .provide exaple of each categories
+ANS:
+There are 8 type of operator in javascript:
+	1.Arithmetic Operators
+	2.Assignment Operators
+	3.Comparison Operators
+	4.Logical Operators
+	5.Type Operators
+	6.Ternary operator 
+	7.Bitwise operator
+Example :
+	1: Arithmetic operators:  +,-,*,/,--,++ etc
+	2:Assignment operator: =,+=,-=,*=,/= etc
+	3:Comparision Operator: <,>,<=,>=,!=,== etc
+	4:Logical Operator: &&,|| etc
+	5: type Operator: typeof
+	6.Bitwise operator: &,|,<<,>> etc  	
+	  
